@@ -1352,7 +1352,7 @@ Keep container alive
 - Cloudflare برای Public Access
 - Firefox برای استفاده داخل Browser
 - تنظیمات Low-Bandwidth
-- 60 FPS هدف‌گذاری‌شده
+- 30 FPS هدف‌گذاری‌شده
 - رزولوشن 1280×720
 - Audio
 - Clipboard
