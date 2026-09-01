@@ -424,7 +424,7 @@ jobs:
             `# ---- Video: bandwidth-friendly but silky (x264 CRF, low bitrate cap) ----` \
             -e SELKIES_USE_CPU="true|locked" \
             -e SELKIES_ENCODER="x264enc,jpeg" \
-            -e SELKIES_FRAMERATE="60" \
+            -e SELKIES_FRAMERATE="30" \
             -e SELKIES_H264_CRF="28" \
             -e SELKIES_H264_PAINTOVER_CRF="20" \
             -e SELKIES_H264_FULLCOLOR="false" \
