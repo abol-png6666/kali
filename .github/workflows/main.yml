@@ -561,7 +561,7 @@ jobs:
             echo "- Desktop URL: ${PUBLIC_URL}"
             echo "- Username: \`${DESKTOP_USER}\`"
             echo "- Password: value of the \`SELKIES_PASSWORD\` Actions secret"
-            echo "- Resolution: 1280×720 @ 60fps"
+            echo "- Resolution: 1280×720 @ 30fps"
             echo "- Video: x264 CRF 28 (paint-over CRF 20), ~2 Mbps cap, congestion control ON"
             echo "- Audio: 128 kbps (adjustable in sidebar), microphone OFF"
             echo "- Keyboard fixes: 3-layer (setxkbmap loop · CapsLock auto-release · Python XTest daemon)"
